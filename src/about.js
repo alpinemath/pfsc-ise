@@ -8,13 +8,13 @@ export const softwareTableRows = `
 
 <!-- pfsc-ise -->
 <tr><td><a target="_blank"
-href="https://github.com/alpinemath/pfsc-ise/tree/v22.9-dev">
+href="https://github.com/alpinemath/pfsc-ise/tree/v22.10">
 pfsc-ise
 </a><span class="vers" data-proj-name="pfsc-ise">
-22.9-dev
+22.10
 </span></td>
 <td><a target="_blank"
-href="https://github.com/alpinemath/pfsc-ise/blob/v22.9-dev/LICENSE">
+href="https://github.com/alpinemath/pfsc-ise/blob/v22.10/LICENSE">
 Apache-2.0
 </a></td></tr>
 
@@ -44,10 +44,10 @@ BSD
 
 <!-- pdf.js -->
 <tr><td><a target="_blank"
-href="https://github.com/alpinemath/pdfjs">
+href="https://github.com/alpinemath/pfsc-pdf">
 pdf.js
 </a><span class="vers" data-proj-name="pdf.js">
-(Alpine Mathematics' fork v0.22.0)
+(Alpine Mathematics' fork v2.0.0)
 </span></td>
 <td><a target="_blank"
 href="https://www.apache.org/licenses/LICENSE-2.0.txt">
@@ -56,22 +56,22 @@ Apache 2.0
 
 <!-- pyodide -->
 <tr><td><a target="_blank"
-href="https://github.com/pyodide/pyodide/tree/0.19.0">
+href="https://github.com/pyodide/pyodide/tree/0.19.1">
 pyodide
 </a><span class="vers" data-proj-name="pyodide">
-0.19.0
+0.19.1
 </span></td>
 <td><a target="_blank"
-href="https://github.com/pyodide/pyodide/blob/0.19.0/LICENSE">
+href="https://github.com/pyodide/pyodide/blob/0.19.1/LICENSE">
 MPL-2.0
 </a></td></tr>
 
 <!-- pfsc-examp -->
 <tr><td><a target="_blank"
-href="https://github.com/alpinemath/pfsc-examp/tree/v0.22.0">
+href="https://github.com/alpinemath/pfsc-examp/tree/v0.22.7">
 pfsc-examp
 </a><span class="vers" data-proj-name="pfsc-examp">
-0.22.0
+0.22.7
 </span></td>
 <td><a target="_blank"
 href="https://www.apache.org/licenses/LICENSE-2.0.txt">
@@ -83,7 +83,7 @@ Apache 2.0
 href="https://github.com/alpinemath/displaylang">
 displaylang
 </a><span class="vers" data-proj-name="displaylang">
-0.1.0
+0.22.7
 </span></td>
 <td><a target="_blank"
 href="https://www.apache.org/licenses/LICENSE-2.0.txt">
@@ -116,10 +116,10 @@ MIT
 
 <!-- pfsc-util -->
 <tr><td><a target="_blank"
-href="https://github.com/alpinemath/pfsc-util/tree/v0.22.0">
+href="https://github.com/alpinemath/pfsc-util/tree/v0.22.7">
 pfsc-util
 </a><span class="vers" data-proj-name="pfsc-util">
-0.22.0
+0.22.7
 </span></td>
 <td><a target="_blank"
 href="https://www.apache.org/licenses/LICENSE-2.0.txt">
@@ -162,6 +162,18 @@ href="https://github.com/pallets/markupsafe/blob/2.0.1/LICENSE.rst">
 BSD-3-Clause
 </a></td></tr>
 
+<!-- @alpinemath/pfsc-moose -->
+<tr><td><a target="_blank"
+href="https://github.com/alpinemath/pfsc-moose/tree/v0.22.7">
+@alpinemath/pfsc-moose
+</a><span class="vers" data-proj-name="@alpinemath/pfsc-moose">
+0.22.7
+</span></td>
+<td><a target="_blank"
+href="https://github.com/alpinemath/pfsc-moose/blob/v0.22.7/LICENSE">
+Apache-2.0
+</a></td></tr>
+
 <!-- ace-builds -->
 <tr><td><a target="_blank"
 href="https://github.com/ajaxorg/ace-builds/tree/v1.4.8">
@@ -176,13 +188,13 @@ BSD-3-Clause
 
 <!-- browser-peers -->
 <tr><td><a target="_blank"
-href="https://github.com/skieffer/browser-peers/tree/v0.1.0">
+href="https://github.com/skieffer/browser-peers/tree/v0.2.0">
 browser-peers
 </a><span class="vers" data-proj-name="browser-peers">
-0.1.0
+0.2.0
 </span></td>
 <td><a target="_blank"
-href="https://github.com/skieffer/browser-peers/blob/v0.1.0/LICENSE">
+href="https://github.com/skieffer/browser-peers/blob/v0.2.0/LICENSE">
 MIT
 </a></td></tr>
 
@@ -270,18 +282,6 @@ href="https://github.com/jacoborus/nanobar/blob/v0.4.2/LICENSE">
 MIT
 </a></td></tr>
 
-<!-- pfsc-moose -->
-<tr><td><a target="_blank"
-href="https://github.com/alpinemath/pfsc-moose/tree/v0.22.7-dev">
-pfsc-moose
-</a><span class="vers" data-proj-name="pfsc-moose">
-0.22.7-dev
-</span></td>
-<td><a target="_blank"
-href="https://github.com/alpinemath/pfsc-moose/blob/v0.22.7-dev/LICENSE">
-Apache-2.0
-</a></td></tr>
-
 <!-- socket.io-client -->
 <tr><td><a target="_blank"
 href="https://github.com/socketio/socket.io-client/tree/4.4.1">
@@ -303,6 +303,54 @@ uuid
 </span></td>
 <td><a target="_blank"
 href="https://github.com/uuidjs/uuid/blob/v8.3.2/LICENSE.md">
+MIT
+</a></td></tr>
+
+<!-- d3-ease -->
+<tr><td><a target="_blank"
+href="https://github.com/d3/d3-ease/tree/v1.0.7">
+d3-ease
+</a><span class="vers" data-proj-name="d3-ease">
+1.0.7
+</span></td>
+<td><a target="_blank"
+href="https://github.com/d3/d3-ease/blob/v1.0.7/LICENSE">
+BSD-3-Clause
+</a></td></tr>
+
+<!-- d3-selection -->
+<tr><td><a target="_blank"
+href="https://github.com/d3/d3-selection/tree/v1.4.2">
+d3-selection
+</a><span class="vers" data-proj-name="d3-selection">
+1.4.2
+</span></td>
+<td><a target="_blank"
+href="https://github.com/d3/d3-selection/blob/v1.4.2/LICENSE">
+BSD-3-Clause
+</a></td></tr>
+
+<!-- d3-transition -->
+<tr><td><a target="_blank"
+href="https://github.com/d3/d3-transition/tree/v1.3.2">
+d3-transition
+</a><span class="vers" data-proj-name="d3-transition">
+1.3.2
+</span></td>
+<td><a target="_blank"
+href="https://github.com/d3/d3-transition/blob/v1.3.2/LICENSE">
+BSD-3-Clause
+</a></td></tr>
+
+<!-- webcola -->
+<tr><td><a target="_blank"
+href="https://github.com/tgdwyer/WebCola">
+webcola
+</a><span class="vers" data-proj-name="webcola">
+3.4.0
+</span></td>
+<td><a target="_blank"
+href="https://github.com/tgdwyer/WebCola/blob/master/LICENSE">
 MIT
 </a></td></tr>
 
@@ -364,54 +412,6 @@ yallist
 <td><a target="_blank"
 href="https://github.com/isaacs/yallist/blob/v4.0.0/LICENSE">
 ISC
-</a></td></tr>
-
-<!-- d3-ease -->
-<tr><td><a target="_blank"
-href="https://github.com/d3/d3-ease/tree/v1.0.6">
-d3-ease
-</a><span class="vers" data-proj-name="d3-ease">
-1.0.6
-</span></td>
-<td><a target="_blank"
-href="https://github.com/d3/d3-ease/blob/v1.0.6/LICENSE">
-BSD-3-Clause
-</a></td></tr>
-
-<!-- d3-selection -->
-<tr><td><a target="_blank"
-href="https://github.com/d3/d3-selection/tree/v1.4.1">
-d3-selection
-</a><span class="vers" data-proj-name="d3-selection">
-1.4.1
-</span></td>
-<td><a target="_blank"
-href="https://github.com/d3/d3-selection/blob/v1.4.1/LICENSE">
-BSD-3-Clause
-</a></td></tr>
-
-<!-- d3-transition -->
-<tr><td><a target="_blank"
-href="https://github.com/d3/d3-transition/tree/v1.3.2">
-d3-transition
-</a><span class="vers" data-proj-name="d3-transition">
-1.3.2
-</span></td>
-<td><a target="_blank"
-href="https://github.com/d3/d3-transition/blob/v1.3.2/LICENSE">
-BSD-3-Clause
-</a></td></tr>
-
-<!-- webcola -->
-<tr><td><a target="_blank"
-href="https://github.com/tgdwyer/WebCola">
-webcola
-</a><span class="vers" data-proj-name="webcola">
-3.4.0
-</span></td>
-<td><a target="_blank"
-href="https://github.com/tgdwyer/WebCola/blob/master/LICENSE">
-MIT
 </a></td></tr>
 
 <!-- @socket.io/component-emitter -->
@@ -486,51 +486,15 @@ href="https://github.com/socketio/socket.io-parser/blob/4.1.1/LICENSE">
 MIT
 </a></td></tr>
 
-<!-- atoa -->
-<tr><td><a target="_blank"
-href="https://github.com/bevacqua/atoa">
-atoa
-</a><span class="vers" data-proj-name="atoa">
-1.0.0
-</span></td>
-<td><a target="_blank"
-href="https://github.com/bevacqua/atoa/blob/master/license">
-MIT
-</a></td></tr>
-
-<!-- ticky -->
-<tr><td><a target="_blank"
-href="https://github.com/bevacqua/ticky/tree/v1.0.1">
-ticky
-</a><span class="vers" data-proj-name="ticky">
-1.0.1
-</span></td>
-<td><a target="_blank"
-href="https://github.com/bevacqua/ticky/blob/v1.0.1/license">
-MIT
-</a></td></tr>
-
-<!-- custom-event -->
-<tr><td><a target="_blank"
-href="https://github.com/webmodules/custom-event/tree/1.0.1">
-custom-event
-</a><span class="vers" data-proj-name="custom-event">
-1.0.1
-</span></td>
-<td><a target="_blank"
-href="https://github.com/webmodules/custom-event/blob/725c41146f970df345d57cd97b2bf5acd6c8e9f7/LICENSE">
-MIT
-</a></td></tr>
-
 <!-- d3-color -->
 <tr><td><a target="_blank"
-href="https://github.com/d3/d3-color/tree/v1.4.0">
+href="https://github.com/d3/d3-color/tree/v1.4.1">
 d3-color
 </a><span class="vers" data-proj-name="d3-color">
-1.4.0
+1.4.1
 </span></td>
 <td><a target="_blank"
-href="https://github.com/d3/d3-color/blob/v1.4.0/LICENSE">
+href="https://github.com/d3/d3-color/blob/v1.4.1/LICENSE">
 BSD-3-Clause
 </a></td></tr>
 
@@ -592,6 +556,42 @@ d3-shape
 <td><a target="_blank"
 href="https://github.com/d3/d3-shape/blob/v1.3.7/LICENSE">
 BSD-3-Clause
+</a></td></tr>
+
+<!-- atoa -->
+<tr><td><a target="_blank"
+href="https://github.com/bevacqua/atoa">
+atoa
+</a><span class="vers" data-proj-name="atoa">
+1.0.0
+</span></td>
+<td><a target="_blank"
+href="https://github.com/bevacqua/atoa/blob/master/license">
+MIT
+</a></td></tr>
+
+<!-- ticky -->
+<tr><td><a target="_blank"
+href="https://github.com/bevacqua/ticky/tree/v1.0.1">
+ticky
+</a><span class="vers" data-proj-name="ticky">
+1.0.1
+</span></td>
+<td><a target="_blank"
+href="https://github.com/bevacqua/ticky/blob/v1.0.1/license">
+MIT
+</a></td></tr>
+
+<!-- custom-event -->
+<tr><td><a target="_blank"
+href="https://github.com/webmodules/custom-event/tree/1.0.1">
+custom-event
+</a><span class="vers" data-proj-name="custom-event">
+1.0.1
+</span></td>
+<td><a target="_blank"
+href="https://github.com/webmodules/custom-event/blob/725c41146f970df345d57cd97b2bf5acd6c8e9f7/LICENSE">
+MIT
 </a></td></tr>
 
 <!-- ms -->
