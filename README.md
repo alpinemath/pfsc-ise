@@ -2,6 +2,6 @@
 
 # Proofscape ISE
 
-![PISE](./src/img/logo/pies_pise_189x155.png)
+![PISE](./src/img/logo/pies_pise_178x159.png)
 
 This is PISE, the Proofscape Integrated Study Environment.
